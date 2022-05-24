@@ -1,6 +1,10 @@
+.firebase/
+API/
 node_modules/
 .expo/
 dist/
+public/
+web-build/
 npm-debug.*
 *.jks
 *.p8
@@ -8,6 +12,7 @@ npm-debug.*
 *.key
 *.mobileprovision
 *.orig.*
+.firebaserc
 web-build/
 
 # macOS
